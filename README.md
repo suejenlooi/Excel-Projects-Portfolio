@@ -20,7 +20,16 @@ Each project in this repo showcases something I’ve learned or applied, includi
 
 ## 🛠️ Project Highlights
 
-### 1. **Hangman (VBA-based Game)**  
+
+### 1. **Simple Quarterly Report**  
+- **Objective:** Automate a simple quarterly report using VBA and forms for better usability  
+- **Skills Used:** VBA scripting, UserForms, dynamic data input/output, report generation  
+- **What I Learned:**  
+  - How to design user-friendly forms for data entry  
+  - Automating report generation workflows  
+  - Streamlining repetitive tasks to save time and reduce errors
+
+### 2. **Hangman (VBA-based Game)**  
 - **Objective:** Build a functional game inside Excel using VBA  
 - **Skills Used:** Buttons, loops, arrays, event-driven macros  
 - **What I Learned:** Handling user input, building interactive tools with VBA, and managing game logic in a spreadsheet environment  
