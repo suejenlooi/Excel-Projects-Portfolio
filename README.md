@@ -32,27 +32,11 @@ Each project in this repo showcases something I’ve learned or applied, includi
 ### 2. **Hangman (VBA-based Game)**  
 - **Objective:** Build a functional game inside Excel using VBA  
 - **Skills Used:** Buttons, loops, arrays, event-driven macros  
-- **What I Learned:** Handling user input, building interactive tools with VBA, and managing game logic in a spreadsheet environment  
+- **What I Learned:** Handling user input, building interactive tools with VBA, and managing game logic in a spreadsheet environment
+
+### 3. **Analysis of 7 Cities Using Rank-Adapted Analytical Hierarchy Process (AHP)**  
+- **Objective:** To evaluate and rank seven cities based on transport indicators by applying a rank-adapted AHP
+- **Skills Used:** Structured data cleaning, VLOOKUP, nested IF formulas, Pivot Tables  
+- **What I Learned:** Efficient spreadsheet design, use and management of nested and complex formulas 
 
 > *More projects will be added soon!*
-
----
-
-## 🧠 What This Journey Means to Me
-
-These projects are more than just exercises — they're practical applications of what I’ve learned. I’ve used them to improve workflows, automate repetitive tasks, and turn raw data into something meaningful.
-
-Through each one, I’ve discovered just how powerful Excel can be — not just as a spreadsheet tool, but as a platform for problem-solving, analysis, and automation.
-
----
-
-## 🚀 What’s Next?
-
-This is an evolving portfolio. As I continue learning, I’ll be adding:
-
-- Business dashboards  
-- Financial modeling tools  
-- Data cleaning and transformation projects  
-- More advanced VBA utilities  
-
-Thanks for stopping by, and feel free to check out the individual project folders to see what I’ve built so far!
